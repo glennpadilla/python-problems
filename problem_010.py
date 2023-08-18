@@ -1,0 +1,45 @@
+<<<<<<< HEAD
+# Complete the is_divisible_by_3 function to return the
+# word "fizz" if the value in the number parameter is
+# divisible by 3. Otherwise, just return the number.
+#
+# You can use the test number % 3 == 0 to test if a
+# number is divisible by 3.
+
+# Do some planning in ./planning.md
+
+# Write out some pseudocode before trying to solve the
+# problem to get a good feel for how to solve it.
+
+def is_divisible_by_3(number):
+    # If number is divisible by 3
+    if number % 3 == 0:
+        return "fizz"
+    else:
+        return number
+
+print(is_divisible_by_3(1))
+print(is_divisible_by_3(3))
+=======
+# Complete the is_divisible_by_3 function to return the
+# word "fizz" if the value in the number parameter is
+# divisible by 3. Otherwise, just return the number.
+#
+# You can use the test number % 3 == 0 to test if a
+# number is divisible by 3.
+
+# Do some planning in ./planning.md
+
+# Write out some pseudocode before trying to solve the
+# problem to get a good feel for how to solve it.
+
+def is_divisible_by_3(number):
+    # If number is divisible by 3
+    if number % 3 == 0:
+        return "fizz"
+    else:
+        return number
+
+print(is_divisible_by_3(1))
+print(is_divisible_by_3(3))
+>>>>>>> 6890c8f5fa8daba58f58887c821d440a15b9ee8d
